@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Jadde-1/Jadde-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--What are we looking for here?-->
+Student developer learning C# and .NET, with a side interest in web development.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C# / .NET / MS SQL — currently studying
+* HTML / CSS
+* Java — basic knowledge
+
+### Open Source
+
+I enjoy building projects, learning through experimentation, and exploring open-source software.
+
+### Contact
+
+**Email:** [Contact@pgpmails.com](mailto:Contact@pgpmails.com)
+**PGP:** https://keys.openpgp.org/search?q=Contact@pgpmails.com
