@@ -5,8 +5,8 @@ Student developer learning C# and .NET, with a side interest in web development.
 
 ### Skills
 
-* C# / .NET / MS SQL — currently studying
-* HTML / CSS
+* C# / .NET / MS SQL - currently studying
+* HTML / CSS - basic knowledge
 * Java — basic knowledge
 
 ### Open Source
